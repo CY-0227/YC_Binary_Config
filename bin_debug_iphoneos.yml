@@ -1,6 +1,6 @@
 ---
 configuration_env: debug_iphoneos
-code_repo_url: git@gitlab.sojex.net:chenyun/example_spec_source.git
-binary_repo_url: git@gitlab.sojex.net:chenyun/example_spec_bin_dev.git
-binary_download_url: http://192.168.31.120:5000/frameworks/%s/%s/zip
+code_repo_url: git@gitlab.sojex.net:chenyun/spec_bin_source_debug.git
+binary_repo_url: git@gitlab.sojex.net:chenyun/spec_bin_debug.git
+binary_download_url: http://10.9.79.212:9000/frameworks/%s/%s/zip
 download_file_type: zip
