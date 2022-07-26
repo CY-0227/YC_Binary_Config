@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T03:10:04.274Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-bhD8U7CidLVbmOUhIOM" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T03:10:22.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="I3sQnzX6behlvaGcPdwn" version="17.4.0" type="github">
   <diagram id="31p98_oL__xW8jrO6pc7" name="第 1 页">
     <mxGraphModel dx="1859" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,10 +29,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-7" value="&lt;font style=&quot;font-size: 19px&quot;&gt;口袋贵金属业务梳理&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="502.5" y="30" width="245" height="30" as="geometry" />
+          <mxGeometry x="732.5" y="30" width="245" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-8" value="&lt;font style=&quot;font-size: 17px&quot;&gt;业务组件&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="560" y="100" width="130" height="30" as="geometry" />
+          <mxGeometry x="790" y="100" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-31" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="100" y="160" width="150" height="360" as="geometry" />
