@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T06:44:52.167Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SzkTHWUjv2dLWoZEcaUd" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T06:58:57.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pHEGO_7DjXHWZd60wXO0" version="17.4.0" type="github">
   <diagram id="31p98_oL__xW8jrO6pc7" name="第 1 页">
     <mxGraphModel dx="1859" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="80" y="670" width="1330" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1169" width="680" height="270" as="geometry" />
+        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="1010" width="1330" height="330" as="geometry" />
         </mxCell>
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XOXXFUQoiVnGKIvhB3Gf-1" target="XOXXFUQoiVnGKIvhB3Gf-1">
           <mxGeometry relative="1" as="geometry" />
@@ -263,7 +263,7 @@
           <mxGeometry x="685" y="800" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-250" value="红点推送组件" style="text;html=1;strokeColor=none;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="682.5" y="870" width="120" height="50" as="geometry" />
+          <mxGeometry x="685" y="870" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-251" value="报价系统组件" style="text;html=1;strokeColor=none;fillColor=#a0522d;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="970" y="730" width="120" height="50" as="geometry" />
@@ -291,6 +291,33 @@
         </mxCell>
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-259" value="聊天室" style="text;html=1;strokeColor=none;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="827" y="800" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-260" value="基础组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=20;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="677.5" y="1030" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-261" value="基础工具&lt;br&gt;CommonTool" style="text;html=1;strokeColor=none;fillColor=#D74459;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1070" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-262" value="基础UI组件&lt;br&gt;CommonUI" style="text;html=1;strokeColor=none;fillColor=#D74459;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1070" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-263" value="网络库&lt;br&gt;&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;GKDNetwork&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#D74459;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1070" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-264" value="基础路由库&lt;br&gt;GKDRouter" style="text;html=1;strokeColor=none;fillColor=#D74459;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1070" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-265" value="AppDelegate分发" style="text;html=1;strokeColor=none;fillColor=#D74459;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="685" y="1070" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-266" value="AppDelegate分发" style="text;html=1;strokeColor=none;fillColor=#D74459;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1070" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-267" value="AppDelegate分发" style="text;html=1;strokeColor=none;fillColor=#D74459;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1070" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-268" value="AppDelegate分发" style="text;html=1;strokeColor=none;fillColor=#D74459;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1070" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
