@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T06:24:21.156Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="sliFL463cMkUbSoddw8v" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T06:24:42.979Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zNiMXz4KZwEMBl-X2WtW" version="17.4.0" type="github">
   <diagram id="31p98_oL__xW8jrO6pc7" name="第 1 页">
     <mxGraphModel dx="1859" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-238" value="业务中间件&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=20;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="682.5" y="690" width="125" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-239" value="登录注册组件&lt;br style=&quot;font-size: 14px;&quot;&gt;GKDLogin&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=#FFD966;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#1B1D1F;" vertex="1" parent="1">
+        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-239" value="&lt;font color=&quot;#ffffff&quot;&gt;登录注册组件&lt;br style=&quot;font-size: 14px&quot;&gt;GKDLogin&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#FFD966;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#1B1D1F;" vertex="1" parent="1">
           <mxGeometry x="100" y="730" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-240" value="&lt;font color=&quot;#ffffff&quot;&gt;广告SDK&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#B266FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#1B1D1F;" vertex="1" parent="1">
@@ -280,7 +280,7 @@
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-255" value="Flutter&lt;br&gt;&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;&lt;div style=&quot;line-height: 1.75&quot;&gt;GKDFlutterLib&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#6d8764;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1250" y="730" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-256" value="用户系统&lt;br&gt;&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;&lt;span&gt;GKDUser&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FFD966;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#1B1D1F;" vertex="1" parent="1">
+        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-256" value="&lt;font color=&quot;#ffffff&quot;&gt;用户系统&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;&lt;span&gt;&lt;font color=&quot;#ffffff&quot;&gt;GKDUser&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FFD966;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#1B1D1F;" vertex="1" parent="1">
           <mxGeometry x="100" y="800" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-257" value="JS交互&lt;br&gt;&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;GKDHybird&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#6d8764;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
