@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T07:08:57.089Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="iTBd-VSBOp3UyR7zhvFE" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T07:10:27.050Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hBn8QQKpAfv_vMvTRgXA" version="17.4.0" type="github">
   <diagram id="31p98_oL__xW8jrO6pc7" name="第 1 页">
     <mxGraphModel dx="1859" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="80" y="670" width="1330" height="280" as="geometry" />
         </mxCell>
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="77.5" y="1010" width="1330" height="330" as="geometry" />
+          <mxGeometry x="77.5" y="1010" width="1330" height="250" as="geometry" />
         </mxCell>
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XOXXFUQoiVnGKIvhB3Gf-1" target="XOXXFUQoiVnGKIvhB3Gf-1">
           <mxGeometry relative="1" as="geometry" />
@@ -336,6 +336,9 @@
         </mxCell>
         <mxCell id="XOXXFUQoiVnGKIvhB3Gf-274" value="&lt;span&gt;主题切换&lt;/span&gt;&lt;br&gt;&lt;span&gt;DDThemeKit&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=#D74459;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="827" y="1150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XOXXFUQoiVnGKIvhB3Gf-275" value="APM性能监控" style="text;html=1;strokeColor=none;fillColor=#D74459;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1150" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
